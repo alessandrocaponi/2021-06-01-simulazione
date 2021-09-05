@@ -1,7 +1,7 @@
 package it.polito.tdp.genes.model;
 
 public class Genes {
-	
+	//prova
 	private String geneId;
 	private String essential;
 	private int chromosome;
